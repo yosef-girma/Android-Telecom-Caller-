@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Caller</string>
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="title_package">Package</string>
+    <string name="title_credit"> Credit </string>
+    <string name="title_internet"> INTERNET</string>
+    <string name="title_voice"> VOICE</string>
+    <string name="title_sms"> SMS</string>
+
+
+    <string name="currency_birr"> Birr</string>
+    <string name="mega_byte"> MB</string>
+
+    <!-- string related to periods -->
+
+    <string name="title_daily">   DAILY    </string>
+    <string name="title_weekly">  WEEKLY   </string>
+    <string name="title_monthly"> MONTHLY  </string>
+    <string name="title_night">   NIGHT   </string>
+
+    <string name="menu_setting">Setting </string>
+
+
+    <string-array name="services">
+        <item> BALANCE      </item>
+        <item> RECHARGE     </item>
+        <item> TRANSFER     </item>
+        <item> CALL ME BACK </item>
+
+
+    </string-array>
+
+
+    <string name="pkg_internet_desc"> More Bandwidth for less money!</string>
+    <string name="pkg_voice_desc"> More Minutes for less money!</string>
+    <string name="pkg_sms_desc">  More Messages for less Money!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+
+</resources>

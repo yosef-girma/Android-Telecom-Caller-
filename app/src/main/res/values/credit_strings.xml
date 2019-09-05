@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="credit_desc"> If you are in a hurry and couldn\'t get a mobile card,borrow airtime now and pay later when you recharge your account </string>
+
+
+
+    <string name="title_eligibility"> ELIGIBILITY</string>
+    <string name="elgibility_desc">   Before borrowing airtime money,first cehck if you are eligible to borrow and the amount you can borrow</string>
+    <string name="check_eligibility"> Check Eligibility</string>
+
+    <string name="title_debit_info"> DEBIT INFO</string>
+    <string name="debit_desc"> If you have already borrowed airtime money, check the amount you owe</string>
+    <string name="check_debit"> Check Debit Info</string>
+
+</resources>

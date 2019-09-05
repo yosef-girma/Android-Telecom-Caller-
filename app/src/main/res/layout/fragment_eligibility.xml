@@ -1,0 +1,39 @@
+<RelativeLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="app.orit.com.caller.Fragment.Credit.EligibilityFrag">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/eligibility_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/check_eligibility_btn"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/check_eligibility_btn"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="@string/elgibility_desc"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/check_eligibility_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/eligibility_info"
+        android:padding="10dp"
+        android:layout_marginEnd="31dp"
+        android:layout_marginRight="31dp"
+        android:layout_marginTop="27dp"
+        android:text="@string/check_eligibility"
+        android:textColor="@android:color/white"
+        android:background="@color/colorAccent"
+        />
+
+</RelativeLayout>

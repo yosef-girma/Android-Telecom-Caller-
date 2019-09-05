@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_amount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="37dp"
+            android:layout_marginStart="37dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:text="25 MB"
+            android:textColor="#000"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/tv_amount"
+            android:layout_marginBottom="12dp"
+            android:layout_toEndOf="@+id/tv_amount"
+            android:layout_toRightOf="@+id/tv_amount"
+            android:gravity="center"
+            android:text="Birr 3"
+            android:textColor="@color/colorAccent"
+            android:textSize="10dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

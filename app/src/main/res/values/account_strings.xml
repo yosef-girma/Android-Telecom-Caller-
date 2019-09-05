@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="phone_number"> Phone Number </string>
+
+
+    <!--    -->
+    <string name="recharge"> Enter the hidden number from your scratch card.</string>
+    <string name="recharge_title"> Scratch Card Number </string>
+    <string name="recharging_choice_title"> Recharging </string>
+    <string name="recharge_for_u">For yourself</string>
+    <string name="recharge_as_gift"> As a Gift </string>
+    <string name="recharge_btn"> Recharge</string>
+
+    <string name="recharge_cam_desc"> To recharge scan the numbers on your scratch card. Align the numbers with the rectange space on your screen </string>
+
+
+    <!--  transfer string -->
+
+    <string name="transfer_desc"> To transfer balance for others , type phone number or press contact icon and insert amount in birr</string>
+
+    <string name="transfer_amount"> Amount </string>
+    <string name="transfer_btn"> Transfer</string>
+
+    <!-- call me back string -->
+
+    <string name="call_back_desc"> The servcie enables you to request others to call you back </string>
+    <string name="call_back_title"> Type the phone number or press contact icon. </string>
+
+    <string name="call_me_back"> Call Me Back</string>
+
+
+
+
+</resources>
